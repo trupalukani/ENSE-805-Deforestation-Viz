@@ -2,7 +2,7 @@
 
 The Deforestation Data Platform is a Power BI dashboard designed to visualize and understand global deforestation trends. It provides interactive maps, data insights, and reports to help students, researchers, and industry professionals track and learn about forest loss and its impact.
 
-# Deforestation Data Platform
+## Introductory Video
 
 https://youtu.be/fTAHoq9aTMU
 

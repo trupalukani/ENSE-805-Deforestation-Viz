@@ -9,6 +9,12 @@ The Deforestation Data Platform is a Power BI dashboard designed to visualize an
 
 https://youtu.be/fTAHoq9aTMU
 
+## UN SDGs
+
+- SDG 15: Life on Land - Combat deforestation and protect terrestrial
+ecosystems.
+- SDG 13: Climate Action
+
 ## Features
 - Interactive dashboards with charts, maps, and filters
 - Insights on deforestation trends

@@ -33,7 +33,7 @@ The **Deforestation Data Platform** aligns with the following United Nations Sus
 ## Technologies Used
 
 - **Power BI**: For creating dynamic, interactive dashboards and visualizations.
-- **Python**: Used for data collection, preprocessing, and ensuring data accuracy and timeliness. 🐍
+- **Python**: Used for data collection, preprocessing, and ensuring data accuracy and timeliness. 
 - **Public Datasets**: Uses publicly available datasets from global organizations like the Food and Agriculture Organization (FAO) and Global Forest Watch to provide real-time deforestation insights.
 
 ## Goals and Vision
@@ -44,3 +44,20 @@ The **Deforestation Data Platform** aims to:
 - Provide an **intuitive interface** that simplifies exploring deforestation trends and provides actionable insights. 💡
 - Support **evidence-based decision-making** for environmental organizations, researchers, and policymakers by offering reliable, real-time data.
 - **Expand the platform’s reach**, integrating with regional and global environmental monitoring networks to further combat deforestation. 🌱
+
+## 🛠 Getting Started
+
+Want to explore the dashboard? Follow these steps:
+
+1. **Install Power BI Desktop**  
+   Download from: [https://powerbi.microsoft.com/desktop](https://powerbi.microsoft.com/desktop)
+
+2. **Download this repository**  
+   You can clone or download the ZIP file.
+
+3. **Open the `.pbix` file** using Power BI Desktop.
+
+4. **Explore the Dashboard**  
+   Use filters, buttons, and tooltips to explore deforestation trends across years, regions, and causes.
+
+---

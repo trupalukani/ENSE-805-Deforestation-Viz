@@ -13,7 +13,7 @@ The **Deforestation Data Platform** seeks to address this challenge by providing
 
 ## Our Commercial 🎥
 
-Visit [Introductory Video](https://www.youtube.com/watch?v=a6ZL5f-hJaw) for our platform's commercial video.
+Visit [Commercial](https://www.youtube.com/watch?v=a6ZL5f-hJaw) for our platform's commercial video.
 
 ## Introductory Video 🎥
 

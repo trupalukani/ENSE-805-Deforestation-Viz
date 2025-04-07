@@ -11,9 +11,13 @@ The **Deforestation Data Platform** seeks to address this challenge by providing
 - **Trupal Ukani**
 - **Bhargav Taraviya**
 
+## Our Commercial 🎥
+
+Visit [Introductory Video](https://www.youtube.com/watch?v=a6ZL5f-hJaw) for our platform's commercial video.
+
 ## Introductory Video 🎥
 
-Watch the [Introductory Video](https://youtu.be/fTAHoq9aTMU) for a quick overview of the platform’s features and functionality.
+Visit [Introductory Video](https://youtu.be/fTAHoq9aTMU) for a quick overview of the platform’s features and functionality.
 
 ## UN SDGs
 
